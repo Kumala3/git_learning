@@ -5,5 +5,5 @@ Bot = bot.bot
 
 if 5 > 0:
     print('gfda')
-    print('tfe')    breakpoint()
+    breakpoint()
 fgsf
